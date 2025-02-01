@@ -25,5 +25,14 @@
         "verified": false,
         "last_updated": "2025-01-31T23:40:50.815714",
         "metadata": {}
+    },
+    "venkateshyarramsetti7@gmail.com": {
+        "email": "venkateshyarramsetti7@gmail.com",
+        "joined_date": "2025-02-01T11:49:13.163378",
+        "status": "pending",
+        "verification_token": "dad521474dddd9f2ffa82caa72967cd84d435afc40309e3aba39ed7e9b8b5112",
+        "verified": false,
+        "last_updated": "2025-02-01T11:49:13.163378",
+        "metadata": {}
     }
 }

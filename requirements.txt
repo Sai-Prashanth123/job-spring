@@ -1,0 +1,10 @@
+Flask
+json
+os
+re
+flask_cors
+typing
+hashlib
+logging
+dataclasses
+email_validator
